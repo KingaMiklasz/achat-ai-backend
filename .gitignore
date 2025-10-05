@@ -1,0 +1,17 @@
+# Ignoruj pliki konfiguracyjne i dane wrażliwe
+.env
+*.env
+
+# Cache i kompilacje
+__pycache__/
+*.pyc
+
+# Zależności i środowiska
+venv/
+.env/
+.venv/
+
+# IDE i systemowe
+.vscode/
+.idea/
+.DS_Store
